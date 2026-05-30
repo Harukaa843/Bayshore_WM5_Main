@@ -1,4 +1,4 @@
-### Warning: Bayshore WM5  is a TEST VERSION. Not Yet Complete. But it will have to be fixed in the future by Shiroi Kitsu.
+### Warning: Bayshore WM5  is a TEST VERSION. Not Yet Complete. But it will have to be fixed in the future by PORSZX.
 
 ### THIS PROJECT IS CURRENTLY UNSUPPORTED. DO NOT MESSAGE ANYONE FOR HELP
 
@@ -10,7 +10,7 @@ this repo is based on the original repo (https://github.com/ProjectAsakura/Baysh
 ## What is working
  - Story Mode Chapter 60 + Get BGM and Meter
  - Time Attack 
- - Online Ghost Versus Battle (Send me by **skap** coding by **daiz**)
+ - Online Ghost Versus Battle (Code By PORSZX)
  - Discarded Vehicle Card to Full Tune Ticket 600hp to 830hp
  - Online Champion Match (OCM)
  - Venue Crown (Crown Battle)
@@ -31,7 +31,6 @@ It was first started by [Astelle Nightshade](https://github.com/ry00001), but mo
 Special thanks:
  - [Kitsu](https://github.com/shiroikitsu8) - code - like a *lot* of code, system administration help.
  - [Emi (PockyWitch)](https://twitter.com/ChocomintPuppy) - code, technical explanation, help with SSL, a lot more. You are the reason all of this is possible in the first place, Emi.
- - [doomertheboomer](https://github.com/doomertheboomer/openBanaW5p) - code, technical help, OpenBanapassW5P for WMMT5DX+.
  - [The Wangan Midnight Emulation Discord server](https://discord.gg/r3nbd4x) - helping me out on a bunch of stuff.
 
 ## Donations
