@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "CarCrown" ADD COLUMN     "lockedAt" INTEGER NOT NULL DEFAULT 0;
