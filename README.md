@@ -1,15 +1,28 @@
-# Bayshore
-Wangan Midnight Maximum Tune 5 server reimplementation written in TypeScript.<br>
-This repo is based on the original repo [ProjectAsakura/Bayshore](https://github.com/ProjectAsakura/Bayshore)
+### Warning: Bayshore WM5  is a TEST VERSION. Not Yet Complete. But it will have to be fixed in the future by Shiroi Kitsu.
 
-## Branch
-- [WMMT4](../../tree/master_4)
-- [WMMT5](../../tree/master_5)
-- [WMMT5DX](../../tree/master_5dx)
-- [WMMT5DX+](../../tree/master_5dxp)
-- [WMMT6](../../tree/master_6)
-- [WMMT6R](../../tree/master_6r)
+### THIS PROJECT IS CURRENTLY UNSUPPORTED. DO NOT MESSAGE ANYONE FOR HELP
 
+# Bayshore WM5
+Wangan Midnight Maximum Tune 5DX+ server reimplementation written in TypeScript
+
+this repo is based on the original repo (https://github.com/ProjectAsakura/Bayshore)
+
+## What is working
+ - Story Mode Chapter 60 + Get BGM and Meter
+ - Time Attack 
+ - Online Ghost Versus Battle (Send me by **skap** coding by **daiz**)
+ - Discarded Vehicle Card to Full Tune Ticket 600hp to 830hp
+ - Online Champion Match (OCM)
+ - Venue Crown (Crown Battle)
+ 
+ ## What is not working (Some parts must wait to be fixed in the future by Shiroi Kitsu.)
+ - Transfer from 4
+ - Car Livery , Decal
+ - Maxi Coin
+ - Ghost Trophies (idk can save)
+ - Japan Challenge
+ - VS Other Region Ghost (VSORG)
+  
 ## Credits
 This software is part of [Project Asakura](https://github.com/ProjectAsakura).
 
@@ -18,5 +31,13 @@ It was first started by [Astelle Nightshade](https://github.com/ry00001), but mo
 Special thanks:
  - [Kitsu](https://github.com/shiroikitsu8) - code - like a *lot* of code, system administration help.
  - [Emi (PockyWitch)](https://twitter.com/ChocomintPuppy) - code, technical explanation, help with SSL, a lot more. You are the reason all of this is possible in the first place, Emi.
- - [derole](https://derole.co.uk) - code, technical help, OpenBanapass.
+ - [doomertheboomer](https://github.com/doomertheboomer/openBanaW5p) - code, technical help, OpenBanapassW5P for WMMT5DX+.
  - [The Wangan Midnight Emulation Discord server](https://discord.gg/r3nbd4x) - helping me out on a bunch of stuff.
+
+## Donations
+Donations are not required, however I'm only one person, and I'm still a student, so if you want to thank me for my work, [please buy me a coffee or two](https://ko-fi.com/lostkagamine).
+
+This won't get you anything other than my gratitude, the entire project is and will always remain available to everyone for free.
+
+## On TeknoParrot
+The TeknoParrot team (TeknoGods) are not authorised to use **any part** of this project. **Do not integrate any portion of Bayshore into TeknoParrot.**
