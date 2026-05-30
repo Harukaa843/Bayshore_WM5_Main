@@ -3,7 +3,7 @@
 ### THIS PROJECT IS CURRENTLY UNSUPPORTED. DO NOT MESSAGE ANYONE FOR HELP
 
 # Bayshore WM5
-Wangan Midnight Maximum Tune 5DX+ server reimplementation written in TypeScript
+Wangan Midnight Maximum Tune 5 server reimplementation written in TypeScript
 
 this repo is based on the original repo (https://github.com/ProjectAsakura/Bayshore)
 
