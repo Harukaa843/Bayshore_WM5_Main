@@ -1,0 +1,18 @@
+{
+    "placeId": "Thailand",
+    "shopName": "CentralFestivalShirokoBeach",
+    "shopNickname": "",
+    "regionId": "40",
+    "country": "THA",
+    "regionName": "Thailand",
+    "serverIp": "172.20.10.6",
+    "notices": ["Welcome to CentralFestival Shiroko Beach Wangan Midnight Maximum 5 Server", "ENJOY THE GAME"],
+    "gameOptions": {
+        "grantFullTuneTicketToNewUsers": 9, 
+        "giftCarsFullyTuned": 1, 
+        "scratchEnabled": 1, 
+        "scratchType": 2, 
+        "giveMeterReward": 0,
+        "newCardsBanned": 0
+    }
+}
